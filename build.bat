@@ -1,0 +1,1 @@
+start cmd /k "cd src && javac -d ../bin Main.java && java -cp ../lib/*;../bin; Main "
